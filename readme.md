@@ -1,3 +1,8 @@
+# UAS WORKSHOP WEB
+
+📚 Aplikasi Digital Library untuk UAS Workshop Web  
+🔗 [Coba Aplikasinya di sini](https://library-next.up.railway.app)
+
 # Digital Library
 
 Digital Library adalah aplikasi perpustakaan digital berbasis web yang memungkinkan pengguna untuk meminjam, mengembalikan, dan mengelola koleksi buku secara online. Sistem ini mendukung fitur peminjaman buku, pengembalian, pembayaran denda, serta dashboard admin untuk pengelolaan data anggota dan buku.
