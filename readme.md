@@ -1,6 +1,6 @@
 # UAS WORKSHOP WEB
 
-📚 Aplikasi Digital Library untuk UAS Workshop Web  
+📚 Aplikasi Digital Library UAS Workshop Web  
 🔗 [Coba Aplikasinya di sini](https://library-next.up.railway.app)
 
 # Digital Library
